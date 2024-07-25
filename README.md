@@ -46,9 +46,8 @@
 I made use of Pytorch's torchvision package and pre-trained YOLO v8 for player detection.
 Fine-tuned Resnet 50 pre-trained model with images of tennis balls from https://universe.roboflow.com/viren-dhanwani/tennis-ball-detection
 
-Tennis ball detector with YOLO: training/tennis_ball_detector_training.ipynb
+Tennis ball detector with YOLO: TennisCVipynb.ipynb
 <br/>
-Tennis court keypoint with Pytorch: training/tennis_court_keypoints_training.ipynb
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
